@@ -1,0 +1,17 @@
+#startButton {
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 100px;
+    padding: 5px;
+    text-align: center;
+}
+
+#submitButton {
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 100px;
+    padding: 5px;
+    text-align: center;
+}
+
+
